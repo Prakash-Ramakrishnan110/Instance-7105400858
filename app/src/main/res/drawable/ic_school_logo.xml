@@ -1,0 +1,106 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Crest Shield Background -->
+    <path
+        android:pathData="M60,10 C85,10 102,16 102,42 C102,80 60,108 60,108 C60,108 18,80 18,42 C18,16 35,10 60,10 Z"
+        android:fillColor="#1E40AF" />
+
+    <!-- Shield Inner Border (Gold) -->
+    <path
+        android:pathData="M60,14 C82,14 97,19 97,42 C97,76 60,102 60,102 C60,102 23,76 23,42 C23,19 38,14 60,14 Z"
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000" />
+
+    <!-- Torch Flame (Gold/Amber) -->
+    <path
+        android:pathData="M60,22 C63,27 67,29 67,34 C67,38 64,41 60,41 C56,41 53,38 53,34 C53,30 56,26 60,22 Z"
+        android:fillColor="#FBBF24" />
+    <path
+        android:pathData="M60,26 C61.5,29 63.5,30 63.5,33 C63.5,35 62,37 60,37 C58,37 56.5,35 56.5,33 C56.5,31 58,28.5 60,26 Z"
+        android:fillColor="#EF4444" />
+
+    <!-- Torch Handle -->
+    <path
+        android:pathData="M57,41 L63,41 L61.5,49 L58.5,49 Z"
+        android:fillColor="#F59E0B" />
+
+    <!-- Open Book Pages (White) -->
+    <path
+        android:pathData="M60,62 C67,58 76,57 84,59 L84,77 C76,75 67,76 60,80 C53,76 44,75 36,77 L36,59 C44,57 53,58 60,62 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Book Spine & Separation line -->
+    <path
+        android:pathData="M60,62 L60,80"
+        android:strokeColor="#1E40AF"
+        android:strokeWidth="1.8" />
+
+    <!-- Book Text Lines Left -->
+    <path
+        android:pathData="M41,64 C47,63 53,64 57,66 M41,68 C47,67 53,68 57,70 M41,72 C47,71 53,72 57,74"
+        android:strokeColor="#94A3B8"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round" />
+
+    <!-- Book Text Lines Right -->
+    <path
+        android:pathData="M63,66 C67,64 73,63 79,64 M63,70 C67,68 73,67 79,68 M63,74 C67,72 73,71 79,72"
+        android:strokeColor="#94A3B8"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round" />
+
+    <!-- Academic Cap (Mortarboard) Above Book -->
+    <path
+        android:pathData="M60,49 L76,54 L60,59 L44,54 Z"
+        android:fillColor="#F59E0B" />
+    <path
+        android:pathData="M52,57 L52,62 C52,64.5 60,66.5 60,66.5 C60,66.5 68,64.5 68,62 L68,57"
+        android:fillColor="#D97706" />
+    <!-- Cap Tassel -->
+    <path
+        android:pathData="M72,55 L75,61 L77,61 L74,55"
+        android:fillColor="#FBBF24" />
+
+    <!-- 3 Excellence Stars Above Cap -->
+    <path
+        android:pathData="M60,16 L61,18.5 L63.5,18.5 L61.5,20 L62.2,22.5 L60,21 L57.8,22.5 L58.5,20 L56.5,18.5 L59,18.5 Z"
+        android:fillColor="#F59E0B" />
+    <path
+        android:pathData="M48,21 L48.8,23 L51,23 L49.3,24.3 L50,26.3 L48,25 L46,26.3 L46.7,24.3 L45,23 L47.2,23 Z"
+        android:fillColor="#F59E0B" />
+    <path
+        android:pathData="M72,21 L72.8,23 L75,23 L73.3,24.3 L74,26.3 L72,25 L70,26.3 L70.7,24.3 L69,23 L71.2,23 Z"
+        android:fillColor="#F59E0B" />
+
+    <!-- Laurel Leaves Left -->
+    <path
+        android:pathData="M24,52 C21,60 23,72 32,82 M26,58 C24,62 25,66 29,68 M26,70 C25,74 27,78 32,80"
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round" />
+
+    <!-- Laurel Leaves Right -->
+    <path
+        android:pathData="M96,52 C99,60 97,72 88,82 M94,58 C96,62 95,66 91,68 M94,70 C95,74 93,78 88,80"
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round" />
+
+    <!-- Banner Ribbon at Bottom -->
+    <path
+        android:pathData="M38,87 L82,87 L80,93 L60,95 L40,93 Z"
+        android:fillColor="#F59E0B" />
+    <!-- Ribbon V-Notch Ends -->
+    <path
+        android:pathData="M34,89 L38,87 L38,94 L33,96 L35,92.5 Z"
+        android:fillColor="#D97706" />
+    <path
+        android:pathData="M86,89 L82,87 L82,94 L87,96 L85,92.5 Z"
+        android:fillColor="#D97706" />
+
+</vector>

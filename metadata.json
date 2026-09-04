@@ -1,0 +1,6 @@
+{
+  "name": "Prakash School",
+  "description": "Commercial-grade School Management Mobile App demo with Student, Parent, Teacher, and Admin portals, live branding preview, and full offline-friendly demonstration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
